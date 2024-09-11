@@ -1,0 +1,19 @@
+{
+    "name": "json-server",
+    "version": "1.0.0",
+    "description": "API для выполнения тестового задания",
+    "main": "index.js",
+    "scripts": {
+      "start": "json-server --watch db.json"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/it-albion/api-for-test-task.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "homepage": "https://github.com/it-albion/api-for-test-task#readme",
+    "dependencies": {
+      "json-server": "^0.15.0"
+    }
+  }
