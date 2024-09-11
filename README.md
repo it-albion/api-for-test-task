@@ -9,9 +9,13 @@
 Склонировать репозиторий
 
 `git clone https://github.com/it-albion/api-for-test-task.git`
+
+
 Установить зависимости
 
 `npm install`
+
+
 Запустить сервер
 
 `npm start`
